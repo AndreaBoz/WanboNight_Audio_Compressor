@@ -1,4 +1,4 @@
-# Wanbo Night
+# Wanbo Night Audio Compressor
 
 Wanbo Night is a personal Android TV project created to solve one specific problem: movie dialogue, music, and sound effects often have very different loudness levels, making it necessary to constantly adjust the volume during playback.
 
