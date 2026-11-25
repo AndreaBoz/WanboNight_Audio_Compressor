@@ -1,0 +1,8 @@
+firma/*.jks
+.DS_Store
+progetto-android/local.properties
+progetto-android/.gradle/
+progetto-android/**/build/
+SHA256SUMS.txt
+documentazione/
+progetto-android/README.md
